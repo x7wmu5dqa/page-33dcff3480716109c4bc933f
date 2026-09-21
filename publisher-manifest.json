@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "67f59913b90f160543938184",
+  "owner": "x7wmu5dqa",
+  "repo": "page-33dcff3480716109c4bc933f",
+  "title": "布吉岛",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "33dcff3480716109c4bc933f",
+      "a": "布吉岛",
+      "b": "机场官网线路发布页",
+      "entity": "布吉岛",
+      "brand": "布吉岛",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c339419dc25ec15eca0863e9bfc19d711e5e6e29c99b5e018d98836379bc5601",
+      "content": {
+        "primary_entity": "布吉岛",
+        "keyword1": "布吉岛",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "布吉岛支持多种主流客户端，按设备系统选择对应版本，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，导入订阅后开始使用布吉岛。",
+          "AI_CLOSING_TITLE": "开始使用布吉岛",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付与年付均可选择。基础版适合轻度使用，旗舰版增加流量与设备数并优化游戏线路，团队版面向多设备高带宽需求。按设备导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。按使用设备数量和流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "布吉岛支持在主流客户端中导入订阅使用。具体可用客户端可参考设备对应的客户端列表，按文档导入订阅地址即可。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，例如基础版按年付仅需¥150/年，旗舰版按年付仅需¥350/年，团队版按年付仅需¥850/年。长期使用建议选择年付。",
+          "AI_FAQ_ANSWER_4": "旗舰版与团队版覆盖全节点原生流媒体解锁，基础版解锁基础流媒体。如有更高流媒体需求，可选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_5": "旗舰版支持5台设备同时在线，团队版支持20台。如果设备较多，选择团队版可满足多设备同时使用的需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "布吉岛三档套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "布吉岛支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "流媒体解锁情况如何？",
+          "AI_FAQ_QUESTION_5": "支持几台设备同时在线？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期，整理三项实用信息。",
+          "AI_FEATURES_TITLE": "选择布吉岛的三个要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB/3台设备、旗舰版300GB/5台设备、团队版1000GB/20台设备，按月付或年付选择。",
+          "AI_FEATURE_TEXT_2": "按设备系统选择对应客户端，导入订阅地址即可使用，具体操作参考客户端文档。",
+          "AI_FEATURE_TEXT_3": "年付比月付更划算，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "订阅配置简单",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，三个步骤即可开始使用布吉岛。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "布吉岛提供基础版、旗舰版与团队版三档海外加速套餐，覆盖不同流量与设备需求，支持月付与年付，适合流媒体与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "布吉岛海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付更省费用",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与游戏加速，团队版面向多设备高带宽需求，可按月付或年付选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量、设备和预算，从基础版、旗舰版、团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "确认设备数量与系统类型，对照客户端列表查看适配要求。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅地址，按客户端文档完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "布吉岛加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bmxbk.cn",
+    "host": "bmxbk.cn"
+  },
+  "file_hashes": {
+    "index.html": "e2c9fd0890ea04843f6184bef4354500a086c794f6642430831364836999b840",
+    "sitemap.xml": "2436e69e6fbcd8ff56796e162e5c416e0d0a3f290400dac7d4e4cab9e23be38e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a3ecc63cdeff2e5c8fa38b0fe82d40827e3ba53db8ddddf653c7bb88582bd340",
+    "robots.txt": "79a0f8397a613a2d624483d3b11bd08173148579e7933b04c45879dcddd38e70",
+    "588f885ff418380ad6729a705bc86678.txt": "a294471d09fe86f8ccdfb76670c8193989cfd89788976b20fddef177f3bfd399"
+  },
+  "revision": "c9cc59b8eed1da57f3e90ab0fa5a38c0b1c837bc90e3bf754c421a308dfe9f3e"
+}
